@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1003220%26lang%3DRussian&psig=AOvVaw2uH9ymHi-4yXZeIGABVYc0&ust=1622115611149000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDQr9ih5_ACFQAAAAAdAAAAABAD);
+    font-family: 'Lobster', cursive;
+}
+li{
+  display: inline-block;
+  padding: 20px 10px;
+}
+a{
+  background-color: #30E03D;
+  border: 1px solid #E02820;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px;
+  text-decoration: none;
+  color: white;
+}
+p{
+  background-color: #8B00F5;
+}
+h2{
+  background-color: #67FF00;
+}
+  a:hover{
+    background-color: #25F8F6;
+    border: 1px solid #1FE09D;
+    border-radius: 5px;
+    font-size: 30px;
+    padding: 5px;
+    text-decoration: none;
+    color: gold;
+  }
+  p:hover{
+    background-color: #2BC7FA;
+    font-size: 35px
+  }
+  .posts{
+    background-color: #0800F5;
+    border: 1px solid #F50079;
+    border-radius: 5px;
+    font-size: 35px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: black;
+    margin: 10px 10px;
+    font-family: 'Dancing Script', cursive;
+  }
+
+
+
+
+  .slider {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+
+  .slick-arrow {
+    z-index: 2;
+  }
